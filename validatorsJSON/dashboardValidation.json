@@ -1,0 +1,136 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+      "campaignWiseComparison": {
+        "title": "Generated schema for getAgentKYCDoc",
+        "type": "object",
+        "properties": {
+          "campaign_name": {
+            "type": "string"
+          },
+          "start_date": {
+            "type": "string"
+          },
+          "end_date": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "campaign_name",
+          "start_date",
+          "end_date",
+          "status"
+          
+        ]
+      },
+      "branchWiseLead": {
+        "title": "Generated schema for getAgentKYCDoc",
+        "type": "object",
+        "properties": {
+          "campaign_name": {
+            "type": "string"
+          },
+          "start_date": {
+            "type": "string"
+          },
+          "end_date": {
+            "type": "string"
+          },
+          "district": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "campaign_name",
+          "start_date",
+          "end_date",
+          "district",
+          "status"
+        ]
+      },
+      "leadStagesCount": {
+        "title": "Generated schema for getAgentKYCDoc",
+        "type": "object",
+        "properties": {
+          "campaign_name": {
+            "type": "string"
+          },
+          "start_date": {
+            "type": "string"
+          },
+          "end_date": {
+            "type": "string"
+          },
+          "district": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "campaign_name",
+          "start_date",
+          "end_date",
+          "district",
+          "status"
+        ]
+      },
+      "campaignList": {
+        "title": "Generated schema for getAgentKYCDoc",
+        "type": "object",
+        "properties": {
+          "start_date": {
+            "type": "string"
+          },
+          "end_date": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          }
+        },
+        "required": [
+          
+          "start_date",
+          "end_date",
+          "status"
+          
+        ]
+      },
+      "getDashboardData": {
+        "title": "Generated schema for getAgentKYCDoc",
+        "type": "object",
+        "properties": {
+          "campaign_name": {
+            "type": "string"
+          },
+          "start_date": {
+            "type": "string"
+          },
+          "end_date": {
+            "type": "string"
+          },
+          "district": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "campaign_name",
+          "start_date",
+          "end_date",
+          "status"
+        ]
+      }
+    }
+  }
+  

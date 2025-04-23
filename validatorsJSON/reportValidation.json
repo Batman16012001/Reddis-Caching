@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "reportInput": {
+      "title": "Generated schema for getAgentKYCDoc",
+      "type": "object",
+      "properties": {
+        "summary_by": {
+          "type": "string"
+        },
+        "start_date": {
+          "type": "string"
+        },
+        "end_date": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string"
+        },
+        "campaign_name": {
+          "type": "string"
+        },
+        "group_name": {
+          "type": "string"
+        },
+        "branch_name": {
+          "type": "string"
+        },
+        "unit_name": {
+          "type": "string"
+        }
+      },
+      "required": ["summary_by", "start_date", "end_date"]
+    },
+    "campaignList": {
+      "title": "Generated schema for getAgentKYCDoc",
+      "type": "object",
+      "properties": {
+        "start_date": {
+          "type": "string"
+        },
+        "end_date": {
+          "type": "string"
+        }
+      },
+      "required": ["start_date", "end_date"]
+    },
+    "branchList": {
+      "title": "Generated schema for getAgentKYCDoc",
+      "type": "object",
+      "properties": {
+        "group_code": {
+          "type": "string"
+        }
+      },
+      "required": ["group_code"]
+    },
+    "unitList": {
+      "title": "Generated schema for getAgentKYCDoc",
+      "type": "object",
+      "properties": {
+        "branch_code": {
+          "type": "string"
+        }
+      },
+      "required": ["branch_code"]
+    },
+    "auditList": {
+      "title": "Generated schema for getAgentKYCDoc",
+      "type": "object"
+    }
+  }
+}

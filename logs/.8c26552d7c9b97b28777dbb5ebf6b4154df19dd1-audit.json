@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/admin1/LMS_New_CodeBase/codebase/LMS_Backend/DashboardReport/logs/.8c26552d7c9b97b28777dbb5ebf6b4154df19dd1-audit.json",
+    "files": [
+        {
+            "date": 1745231781056,
+            "name": "/home/admin1/LMS_New_CodeBase/codebase/LMS_Backend/DashboardReport/logs/DashboardReport-2025-04-21.log",
+            "hash": "24ae8b931cc57f297390fa75d151b13c3798d46243efa7cacedc5ae752b7b268"
+        }
+    ],
+    "hashType": "sha256"
+}

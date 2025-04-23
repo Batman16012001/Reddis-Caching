@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/pranav/LMS/codebase/LMS_Backend/DashboardReport(Caching)/logs/.7939f8d8193f4910e7387febc13e8d25f108634d-audit.json",
+    "files": [
+        {
+            "date": 1745381883052,
+            "name": "/home/pranav/LMS/codebase/LMS_Backend/DashboardReport(Caching)/logs/DashboardReport-2025-04-23.log",
+            "hash": "0319d4fceb8b6c2ac6ce30fb4747c5e74d976833fb16f78f42bad14bf474e329"
+        }
+    ],
+    "hashType": "sha256"
+}
