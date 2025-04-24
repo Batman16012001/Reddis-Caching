@@ -1,0 +1,498 @@
+{
+  "campaignWiseResult": [
+    {
+      "campaign_name": "Ankita doc campaign",
+      "campaign_id": "CM1744267095012y4aAy",
+      "total_leads": 5003,
+      "total_policies": "1300",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Friendship Circle Campaign",
+      "campaign_id": "CM1741606991680CpQ0Q",
+      "total_leads": 5000,
+      "total_policies": "1300",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Social Media Campaign",
+      "campaign_id": "CM1741607022358aKxaD",
+      "total_leads": 5000,
+      "total_policies": "1300",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "DTA Fast Campaign",
+      "campaign_id": "CM1741608052489q0PVO",
+      "total_leads": 5000,
+      "total_policies": "1300",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Marketing Campaign",
+      "campaign_id": "CM1741608106384lXHeh",
+      "total_leads": 5000,
+      "total_policies": "1300",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Sales Officers Campaign",
+      "campaign_id": "CM1741608508459Jw8Uu",
+      "total_leads": 5000,
+      "total_policies": "1300",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Buy Online Campaign",
+      "campaign_id": "CM1741608523226rcBLo",
+      "total_leads": 5000,
+      "total_policies": "1300",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Online Campaign",
+      "campaign_id": "CM1741606945921HZ63d",
+      "total_leads": 5000,
+      "total_policies": "1300",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "NishBroker",
+      "campaign_id": "CM17449670633551Xq6b",
+      "total_leads": 26,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "newwwwwwwwwwwwwwww",
+      "campaign_id": "CM17452161971688UfqV",
+      "total_leads": 24,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Apriltwo",
+      "campaign_id": "CM1744960668918V8RH8",
+      "total_leads": 11,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Amruta April test",
+      "campaign_id": "CM1744960025843fZNNo",
+      "total_leads": 7,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Sandhya k camp",
+      "campaign_id": "CM1744954938926IaM9A",
+      "total_leads": 4,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "adde campaign",
+      "campaign_id": "CM1744968213433hkLZb",
+      "total_leads": 2,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Acceltree",
+      "campaign_id": "CM1744973451623O0YNF",
+      "total_leads": 2,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "ABCD campaign",
+      "campaign_id": "CM1744975059295aW3Wb",
+      "total_leads": 2,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "SB Campaign",
+      "campaign_id": "CM17452090469178v4PE",
+      "total_leads": 2,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "SANDHYA AK",
+      "campaign_id": "CM1745216976191b1MMg",
+      "total_leads": 2,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "wow its campaign",
+      "campaign_id": "CM1745228136352KIyWG",
+      "total_leads": 2,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "jayjay",
+      "campaign_id": "CM1744953971645Tyvcx",
+      "total_leads": 1,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "CSV",
+      "campaign_id": "CM1744976141687QO9rC",
+      "total_leads": 1,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "colombo Galle TWO",
+      "campaign_id": "CM17449817314609bR9c",
+      "total_leads": 1,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Address check",
+      "campaign_id": "CM1745234354533YvhnM",
+      "total_leads": 1,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "AcceltreeCampaign",
+      "campaign_id": "CM1745238345605rR3M5",
+      "total_leads": 1,
+      "total_policies": "0",
+      "total_mcfp": 50
+    },
+    {
+      "campaign_name": "Mynewtestcampaign",
+      "campaign_id": "CM1745240316419glG8T",
+      "total_leads": 1,
+      "total_policies": "0",
+      "total_mcfp": 50
+    }
+  ],
+  "branchWiseResult": [
+    {
+      "district": "Colombo",
+      "branch_code": "BR1",
+      "leadCount": 1600
+    },
+    {
+      "district": "Colombo",
+      "branch_code": "BR2",
+      "leadCount": 1600
+    },
+    {
+      "district": "Colombo",
+      "branch_code": "BR3",
+      "leadCount": 1600
+    },
+    {
+      "district": "Colombo",
+      "branch_code": "BR4",
+      "leadCount": 1600
+    },
+    {
+      "district": "Colombo",
+      "branch_code": "BR5",
+      "leadCount": 1600
+    },
+    {
+      "district": "Colombo",
+      "branch_code": null,
+      "leadCount": 25
+    }
+  ],
+  "leadStagesCountResult": [
+    {
+      "campaign_name": "Ankita doc campaign",
+      "Total_Leads": 5003,
+      "Total_Leads_Assigned": "1200",
+      "Total_Approached_Leads": "1300",
+      "Total_Converted_Leads": "1300",
+      "Total_Unsuccessful_Leads": "1200"
+    },
+    {
+      "campaign_name": "Friendship Circle Campaign",
+      "Total_Leads": 5000,
+      "Total_Leads_Assigned": "1200",
+      "Total_Approached_Leads": "1300",
+      "Total_Converted_Leads": "1300",
+      "Total_Unsuccessful_Leads": "1200"
+    },
+    {
+      "campaign_name": "Social Media Campaign",
+      "Total_Leads": 5000,
+      "Total_Leads_Assigned": "1200",
+      "Total_Approached_Leads": "1300",
+      "Total_Converted_Leads": "1300",
+      "Total_Unsuccessful_Leads": "1200"
+    },
+    {
+      "campaign_name": "DTA Fast Campaign",
+      "Total_Leads": 5000,
+      "Total_Leads_Assigned": "1200",
+      "Total_Approached_Leads": "1300",
+      "Total_Converted_Leads": "1300",
+      "Total_Unsuccessful_Leads": "1200"
+    },
+    {
+      "campaign_name": "Marketing Campaign",
+      "Total_Leads": 5000,
+      "Total_Leads_Assigned": "1200",
+      "Total_Approached_Leads": "1300",
+      "Total_Converted_Leads": "1300",
+      "Total_Unsuccessful_Leads": "1200"
+    },
+    {
+      "campaign_name": "Sales Officers Campaign",
+      "Total_Leads": 5000,
+      "Total_Leads_Assigned": "1200",
+      "Total_Approached_Leads": "1300",
+      "Total_Converted_Leads": "1300",
+      "Total_Unsuccessful_Leads": "1200"
+    },
+    {
+      "campaign_name": "Buy Online Campaign",
+      "Total_Leads": 5000,
+      "Total_Leads_Assigned": "1200",
+      "Total_Approached_Leads": "1300",
+      "Total_Converted_Leads": "1300",
+      "Total_Unsuccessful_Leads": "1200"
+    },
+    {
+      "campaign_name": "Online Campaign",
+      "Total_Leads": 5000,
+      "Total_Leads_Assigned": "1200",
+      "Total_Approached_Leads": "1300",
+      "Total_Converted_Leads": "1300",
+      "Total_Unsuccessful_Leads": "1200"
+    },
+    {
+      "campaign_name": "NishBroker",
+      "Total_Leads": 26,
+      "Total_Leads_Assigned": "2",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "newwwwwwwwwwwwwwww",
+      "Total_Leads": 24,
+      "Total_Leads_Assigned": "20",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "Apriltwo",
+      "Total_Leads": 11,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "Amruta April test",
+      "Total_Leads": 7,
+      "Total_Leads_Assigned": "4",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "Sandhya k camp",
+      "Total_Leads": 4,
+      "Total_Leads_Assigned": "2",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "adde campaign",
+      "Total_Leads": 2,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "Acceltree",
+      "Total_Leads": 2,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "ABCD campaign",
+      "Total_Leads": 2,
+      "Total_Leads_Assigned": "1",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "SB Campaign",
+      "Total_Leads": 2,
+      "Total_Leads_Assigned": "1",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "SANDHYA AK",
+      "Total_Leads": 2,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "wow its campaign",
+      "Total_Leads": 2,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "jayjay",
+      "Total_Leads": 1,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "CSV",
+      "Total_Leads": 1,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "colombo Galle TWO",
+      "Total_Leads": 1,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "Address check",
+      "Total_Leads": 1,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "AcceltreeCampaign",
+      "Total_Leads": 1,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    },
+    {
+      "campaign_name": "Mynewtestcampaign",
+      "Total_Leads": 1,
+      "Total_Leads_Assigned": "0",
+      "Total_Approached_Leads": "0",
+      "Total_Converted_Leads": "0",
+      "Total_Unsuccessful_Leads": "0"
+    }
+  ],
+  "branchPerformanceResult": [
+    {
+      "branch_code": "BR4",
+      "UnitHead_LeadCount": 2560,
+      "LIA_LeadCount": 2720,
+      "HOB_LeadCount": 2720,
+      "TotalLeadCount": 8000
+    },
+    {
+      "branch_code": "BR1",
+      "UnitHead_LeadCount": 2560,
+      "LIA_LeadCount": 2720,
+      "HOB_LeadCount": 2720,
+      "TotalLeadCount": 8000
+    },
+    {
+      "branch_code": "BR5",
+      "UnitHead_LeadCount": 2560,
+      "LIA_LeadCount": 2720,
+      "HOB_LeadCount": 2720,
+      "TotalLeadCount": 8000
+    },
+    {
+      "branch_code": "BR2",
+      "UnitHead_LeadCount": 2560,
+      "LIA_LeadCount": 2720,
+      "HOB_LeadCount": 2720,
+      "TotalLeadCount": 8000
+    },
+    {
+      "branch_code": "BR3",
+      "UnitHead_LeadCount": 2560,
+      "LIA_LeadCount": 2720,
+      "HOB_LeadCount": 2720,
+      "TotalLeadCount": 8000
+    }
+  ],
+  "leadSourceScoreResult": [
+    {
+      "lead_source": "Direct",
+      "total_leads": 19200,
+      "lead_percentage": "47.89"
+    },
+    {
+      "lead_source": "Facebook",
+      "total_leads": 5600,
+      "lead_percentage": "13.97"
+    },
+    {
+      "lead_source": "FastTrack",
+      "total_leads": 5600,
+      "lead_percentage": "13.97"
+    },
+    {
+      "lead_source": "Referral",
+      "total_leads": 5600,
+      "lead_percentage": "13.97"
+    },
+    {
+      "lead_source": "Website",
+      "total_leads": 4000,
+      "lead_percentage": "9.98"
+    },
+    {
+      "lead_source": "HeadOffice",
+      "total_leads": 43,
+      "lead_percentage": "0.11"
+    },
+    {
+      "lead_source": "Broker",
+      "total_leads": 25,
+      "lead_percentage": "0.06"
+    },
+    {
+      "lead_source": "CSV",
+      "total_leads": 25,
+      "lead_percentage": "0.06"
+    }
+  ],
+  "budgetResult": [
+    {
+      "Grand_Total_Leads": 40093,
+      "Total_Campaign_Cost": 2.334354354657668e+177
+    }
+  ]
+}
