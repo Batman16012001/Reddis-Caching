@@ -1,0 +1,45 @@
+Reddis - TTL
+
+
+pranav@pranav:~$ redis-cli
+127.0.0.1:6379> KEYS "dashboard_data:*"
+(empty array)
+What is the expiration done for dashboard_data cache
+
+Based on your codebase, the expiration time (TTL) for the dashboard_data cache is set to 1800 seconds (30 minutes). This is defined in your Redis configuration file.
+
+Looking at your implementation:
+
+In /config/redisConfig.js, you have:
+javascript
+CopyInsert
+// Default TTL in seconds (30 minutes)
+const DEFAULT_CACHE_TTL = 1800;
+In /utils/cacheUtils.js, the setCache method uses this default TTL:
+javascript
+CopyInsert
+static async setCache(key, data, ttl = DEFAULT_CACHE_TTL) {
+    try {
+        await redisClient.setex(key, ttl, JSON.stringify(data));
+        return true;
+    } catch (error) {
+        logger.error(`[CacheUtils] Error setting cache for key ${key}: ${error}`);
+        return false;
+    }
+}
+When storing data in the cache in your service:
+javascript
+CopyInsert
+await CacheUtils.setCache(cacheKey, { data: dashboardOutput });
+This means that after storing data in the cache, it will automatically expire after 30 minutes. There are a few reasons why you might be seeing an empty array when querying for keys:
+
+No API calls yet: If you haven't made any calls to the getDashboardData API since restarting your system, no cache entries would have been created yet.
+TTL expiration: If it's been more than 30 minutes since the last API call that populated the cache, the entries would have expired naturally.
+Redis restart: As we discussed earlier, if Redis was restarted, all in-memory data would be cleared.
+To verify the TTL setting, you can:
+
+Make a call to your getDashboardData API
+Immediately check for keys: KEYS "dashboard_data:*"
+Check the TTL of a specific key: TTL "key_name" (replace with an actual key)
+The TTL command will show you how many seconds are left before the key expires. It should be a number less than or equal to 1800, confirming the 30-minute expiration.
+
